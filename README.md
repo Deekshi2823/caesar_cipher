@@ -37,14 +37,5 @@ This project is intended for **educational purposes** to help understand basic c
 
 * Language: Python
 ## Sample Output
-Plaintext:
-
-```
-HELLO
-```
-
-Encrypted:
-
-```
-KHOOR
-```
+Plaintext:<br>hello
+Encrypted:<br>khoor
