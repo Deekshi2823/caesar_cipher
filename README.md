@@ -11,8 +11,7 @@ The Caesar Cipher works by shifting each letter in a message by a fixed number o
 * A → D
 * B → E
 * Z → C
-
-## ✨ Features
+## Features
 
 * Encrypt text using a shift key
 * Decrypt encrypted text
